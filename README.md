@@ -66,14 +66,9 @@ cd BlogPorject
 ```
 
 ### 2️⃣ Build the Project
-```bash
-./gradlew clean build
-```
 
 ### 3️⃣ Run the Application
-```bash
-./gradlew bootRun
-```
+
 The app will start on [http://localhost:8080](http://localhost:8080)
 
 ---
